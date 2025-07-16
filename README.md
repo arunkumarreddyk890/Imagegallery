@@ -18,7 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 ## Project Stucture
 image_gallery_app/
 
-<img width="2048" height="2048" alt="structure" src="https://github.com/user-attachments/assets/0691aec4-56c7-4b1d-baa1-8ddb2da14ac7" />
+<img width="2048" height="2048" alt="structure" src="https://github.com/user-attachments/assets/60b2d4a6-7c64-4bbe-86c2-1a0b6898dc9c" />
+
 
 
 ## Dependencies 
