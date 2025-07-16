@@ -134,13 +134,7 @@ cropping or enhancing), and setting the image as wallpaper are presented.
 
 ## ✅ Final App Behavior
 
-| Feature              | Works?                              |
-| -------------------- | ---------------------------------- -|
-| Display local images | ✅ Yes                              |
-| Image Picker         | ⚠️ Not active unless added in code  |
-| Fullscreen zoom      | ✅ Yes                              |
-| File save/share      | ✅ Yes                              |
-| Simple Grid UI       | ✅ Yes                              |
+<img width="700" height="1000" alt="feature" src="https://github.com/user-attachments/assets/1190fc9c-1a35-46d5-9cd3-ea8daaedfa6f" />
 
 
 ---
