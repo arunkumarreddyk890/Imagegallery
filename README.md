@@ -126,7 +126,7 @@ cropping or enhancing), and setting the image as wallpaper are presented.
 ## 📱 **Visual Output (UI Overview)**
 
 
-<img width="1280" height="2856" alt="Screenshot_20250716_232732" src="https://github.com/user-attachments/assets/02dc2b7f-f69c-410d-af04-4e2121b3bfc2" />
+<img width="100" height="100" alt="Screenshot_20250716_232732" src="https://github.com/user-attachments/assets/02dc2b7f-f69c-410d-af04-4e2121b3bfc2" />
 
 
 <img width="1280" height="2856" alt="Screenshot_20250716_232811" src="https://github.com/user-attachments/assets/e37c2253-2543-4233-b957-19bb2adfabe4" />
@@ -134,13 +134,14 @@ cropping or enhancing), and setting the image as wallpaper are presented.
 
 ## ✅ Final App Behavior
 
-| Feature              | Works?                               |
-| -------------------- | ---------------------------------- --|
+| Feature              | Works?                              |
+| -------------------- | ---------------------------------- -|
 | Display local images | ✅ Yes                              |
 | Image Picker         | ⚠️ Not active unless added in code  |
 | Fullscreen zoom      | ✅ Yes                              |
 | File save/share      | ✅ Yes                              |
 | Simple Grid UI       | ✅ Yes                              |
+
 
 ---
 
