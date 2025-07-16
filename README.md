@@ -126,10 +126,10 @@ cropping or enhancing), and setting the image as wallpaper are presented.
 ## 📱 **Visual Output (UI Overview)**
 
 
-<img width="700" height="700" alt="Screenshot_20250716_232732" src="https://github.com/user-attachments/assets/02dc2b7f-f69c-410d-af04-4e2121b3bfc2" />
+<img width="700" height="1000" alt="Screenshot_20250716_232732" src="https://github.com/user-attachments/assets/02dc2b7f-f69c-410d-af04-4e2121b3bfc2" />
 
 
-<img width="700" height="706" alt="Screenshot_20250716_232811" src="https://github.com/user-attachments/assets/e37c2253-2543-4233-b957-19bb2adfabe4" />
+<img width="700" height="1000" alt="Screenshot_20250716_232811" src="https://github.com/user-attachments/assets/e37c2253-2543-4233-b957-19bb2adfabe4" />
 
 
 ## ✅ Final App Behavior
