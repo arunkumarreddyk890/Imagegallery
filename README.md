@@ -15,42 +15,10 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-##Project Stucture
+## Project Stucture
 image_gallery_app/
-│
-├── android/
-├── ios/
-├── web/
-├── linux/
-├── macos/
-├── windows/
-├── assets/
-│   └── camera/               # Folder for images added manually or via picker
-|   |___images                # Folder for images added manually or via picker
-│
-├── lib/
-│   ├── main.dart             # Entry point
-│   │
-│   ├── models/               # Data models
-│   │   └── image_model.dart
-│   │
-│   ├── screens/              # Screens/pages
-│   │   ├── home_screen.dart
-│   │   ├── full_image_screen.dart
-│   │
-│   ├── widgets/              # Reusable UI components
-│   │   ├── image_tile.dart
-│   │   └── image_grid.dart
-│   │
-│   ├── services/             # Logic for file handling, permissions
-│   │   ├── image_service.dart
-│   │
-│   └── utils/                # Helper functions, constants, themes
-│       ├── app_theme.dart
-│       └── constants.dart
-│
-├── pubspec.yaml              # Add dependencies & assets
-└── README.md
+
+<img width="2048" height="2048" alt="structure" src="https://github.com/user-attachments/assets/0691aec4-56c7-4b1d-baa1-8ddb2da14ac7" />
 
 
 ## Dependencies 
