@@ -129,7 +129,7 @@ cropping or enhancing), and setting the image as wallpaper are presented.
 <img width="700" height="1000" alt="Screenshot_20250716_232732" src="https://github.com/user-attachments/assets/02dc2b7f-f69c-410d-af04-4e2121b3bfc2" />
 
 
-<img width="700" height="1000" alt="Screenshot_20250716_232811" src="https://github.com/user-attachments/assets/2a10fda1-2231-4120-a559-e5804c3c2174" />
+<img width="700" height="1000" alt="prasanna" src="https://github.com/user-attachments/assets/3c7d5143-a34a-42c0-94ce-cabbeedc1864" />
 
 
 
